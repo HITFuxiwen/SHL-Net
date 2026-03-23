@@ -17,7 +17,7 @@ Modify paths of datasets, then run train.py.
 Note: Our main model is under './model/SHLNet_models.py' 
 
 # Pre-trained model and testing
-1. Download the pre-trained models () , and put them in './models/'.
+1. Download the pre-trained models (link: https://pan.baidu.com/s/1wGZq20Uff8n7Gfi5nYItGQ Extraction Code: k8vy) , and put them in './models/'.
 
 2. Modify paths of pre-trained models and datasets.
 

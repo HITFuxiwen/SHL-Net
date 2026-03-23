@@ -3,7 +3,7 @@ This project provides the code and results for 'SHL-Net: Semantics-Enhanced Netw
 
 # Network Architecture
    <div align=center>
-   <img src="https://github.com/HITFuxiwen/SHL-Net/images/architecture.pdf">
+   <img src="https://github.com/HITFuxiwen/SHL-Net/images/architecture.png">
    </div>
    
    

@@ -11,7 +11,9 @@ This project provides the code and results for 'SHL-Net: Semantics-Enhanced Netw
    python 3.8 + pytorch 1.9.0
 # Training
 Download [pvt_v2_b2.pth] https://drive.google.com/file/d/11j4KBAaNDnBUSDis2mCdhc9vK3F-56Nv/view?usp=drive_link , and put it in './model/'. 
+
 Download [sam_vit_l_0b3195.pth] https://dl.fbaipublicfiles.com/segment_anything/sam_vit_l_0b3195.pth, and put it in './model/'. 
+
 Modify paths of datasets, then run train.py.
 
 Note: Our main model is under './model/SHLNet_models.py' 

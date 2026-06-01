@@ -20,10 +20,11 @@ Note: Our main model is under './model/SHLNet_models.py'
 
 # Pre-trained model and testing
 1. Download the pre-trained models (link: https://pan.baidu.com/s/1wGZq20Uff8n7Gfi5nYItGQ Extraction Code: k8vy) , and put them in './models/'.
+   The pre-trained models are also avaliable at (https://drive.google.com/drive/folders/1h5Vq6ySwZEypTMEeaOBIrX9mi9G_sG5u?usp=drive_link).
 
-2. Modify paths of pre-trained models and datasets.
+3. Modify paths of pre-trained models and datasets.
 
-3. Run test.py.
+4. Run test.py.
 
 # Evaluation Tool
 Modify paths of your predictions and corresponding groundtruth in evalnew.py, then run evalnew.py
